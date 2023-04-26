@@ -4,7 +4,10 @@ The idea is to take a large number of handwritten digits, known as training exam
 The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples. .
 Four files are available:
 
-*train-images: training set images (9912422 bytes)
-*train-labels: training set labels (28881 bytes)
-*t10k-images: test set images (1648877 bytes)
-*t10k-labels: test set labels (4542 bytes)
+train-images: training set images (9912422 bytes)
+
+train-labels: training set labels (28881 bytes)
+
+t10k-images: test set images (1648877 bytes)
+
+t10k-labels: test set labels (4542 bytes)
